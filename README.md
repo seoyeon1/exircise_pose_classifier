@@ -11,3 +11,4 @@ https://github.com/seoyeon1/exircise_pose_classifier/tree/LIMSEOIN
 
 ## About GUI
 
+https://github.com/seoyeon1/exircise_pose_classifier/tree/IoT
