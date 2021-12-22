@@ -3,3 +3,10 @@
 
 ## Main (GUI)
 
+https://github.com/seoyeon1/exircise_pose_classifier/blob/main/main_ai.py
+
+## About Model
+
+
+## About GUI
+
