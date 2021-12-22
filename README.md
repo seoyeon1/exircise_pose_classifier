@@ -7,6 +7,7 @@ https://github.com/seoyeon1/exircise_pose_classifier/blob/main/main_ai.py
 
 ## About Model
 
+https://github.com/seoyeon1/exircise_pose_classifier/tree/LIMSEOIN
 
 ## About GUI
 
